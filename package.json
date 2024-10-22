@@ -12,6 +12,7 @@
   "author": "",
   "license": "AGPL-3.0",
   "dependencies": {
+    "@mendable/firecrawl-js": "^1.6.1",
     "express": "^4.21.1"
   },
   "devDependencies": {
